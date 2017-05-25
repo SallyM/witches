@@ -1,6 +1,6 @@
 # Witches
 
-This is purely a 'for fun' project with a cool dataset on the history of Scottish witchcraft I've found on data.world back in January. It contains various data (40 tables) about people accused, tried and executed for witchcraft in 16-17 century Scotland. I used it for a while to practice SQL since the data is organized in a relational format. For this project I've decided to look at the witches dataset more closely and create couple visualizations of the data. I think it could also be cool to create a network graph of all the relationships within the database, but maybe next time.
+This is purely a 'for fun' project with a cool dataset on the history of Scottish witchcraft I've found on data.world back in January. It contains various data (40 tables) about people accused, tried and executed for witchcraft in 16-17 century Scotland. For this project I've decided to look at the witches dataset more closely and create couple visualizations of the data. I think it could also be interesting to create a network graph of all the relationships within the database, but maybe next time.
 
 ### Word Clouds
 There is a lot of text describing charges and accusations the "witches" faced during their trials, so I thought it would be cool to produce some word clouds that would show most frequently encountered words in the notes about those charges. I realized that there are two types of interesting info: notes about the actual accusations, and notes about "devil" (any unnatural creature) encounters. That led me to 2 word clouds:
