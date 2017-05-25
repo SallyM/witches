@@ -12,4 +12,4 @@ Apparently out of 3170 accused, 2702 were women and 468 were men. I know, *shock
 ![Devil by Type](images/devil_by_type.png)
 
 Another distribution I looked at was accused by their county of residence. The top three counties are all next to each other, and were probably the most populated, which would explain higher numbers of accused witches.
-![Accused by County](images/Accused_by_County.png)
+![Accused by County](images/accused_by_county.png)
