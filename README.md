@@ -4,8 +4,8 @@ This is purely a 'for fun' project with a cool dataset on the history of Scottis
 
 ### Word Clouds
 There is a lot of text describing charges and accusations the "witches" faced during their trials, so I thought it would be cool to produce some word clouds that would show most frequently encountered words in the notes about those charges. I realized that there are two types of interesting info: notes about the actual accusations, and notes about "devil" (any unnatural creature) encounters. That led me to 2 word clouds:
-<br><center> <img src="images/witch_cloud.png" width="70%" height="70%"> </center></br>
-<br><center><img src="images/devil_cloud.png" width="60%" height="30%"></center></br>
+<center><br><img src="images/witch_cloud.png" width="70%" height="70%"></br></center>
+<center><br><img src="images/devil_cloud.png" width="60%" height="30%"></br></center>
 
 ### Some Distributions
 Apparently out of 3170 accused, 2702 were women and 468 were men. I know, *shocking!* lol. Besides the accused themselves, there is a Devil Appearance table that contains data about people encountering "unnatural" beings and bringing it up during the trial. I looked at the distribution of the types of those "devils", and found that the vast majority was "Male"...
